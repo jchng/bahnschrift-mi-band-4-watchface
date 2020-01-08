@@ -4,7 +4,7 @@
 
 #### How to install: [https://c.mi.com/thread-2281025-1-0.html](https://c.mi.com/thread-2281025-1-0.html)
 
-![Watchface image](https://github.com/jchng/bahnschrift-mi-band-4-watchface/raw/master/bahnschrift_packed_static.png)
+![Watchface image](https://github.com/jchng/bahnschrift-mi-band-4-watchface/raw/master/bahnschrift_preview.png)
 
 #### Bugs:
 * The days of the weeks are not showing up
