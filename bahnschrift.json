@@ -1,0 +1,113 @@
+{
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    }
+  },
+  "Time": {
+    "Hours": {
+      "Tens": {
+        "X": 23,
+        "Y": 49,
+        "ImageIndex": 1,
+        "ImagesCount": 3
+      },
+      "Ones": {
+        "X": 61,
+        "Y": 49,
+        "ImageIndex": 1,
+        "ImagesCount": 10
+      }
+    },
+    "Minutes": {
+      "Tens": {
+        "X": 23,
+        "Y": 105,
+        "ImageIndex": 1,
+        "ImagesCount": 6
+      },
+      "Ones": {
+        "X": 61,
+        "Y": 105,
+        "ImageIndex": 1,
+        "ImagesCount": 10
+      }
+    }
+  },
+  "Activity": {
+    "Steps": {
+      "Number": {
+        "TopLeftX": 46,
+        "TopLeftY": 164,
+        "BottomRightX": 100,
+        "BottomRightY": 176,
+        "Alignment": "Left",
+        "Spacing": 0,
+        "ImageIndex": 11,
+        "ImagesCount": 10
+      }
+    },
+    "Pulse": {
+      "Number": {
+        "TopLeftX": 46,
+        "TopLeftY": 179,
+        "BottomRightX": 50,
+        "BottomRightY": 191,
+        "Alignment": "Left",
+        "Spacing": 0,
+        "ImageIndex": 11,
+        "ImagesCount": 10
+        }
+      },
+    "Distance": {
+      "Number": {
+        "TopLeftX": 46,
+        "TopLeftY": 195,
+        "BottomRightX": 120,
+        "BottomRightY": 207,
+        "Alignment": "Left",
+        "Spacing": 0,
+        "ImageIndex": 11,
+        "ImagesCount": 10
+      },
+      "KmSuffixImageIndex": 22,
+      "DecimalPointImageIndex": 21
+    }
+  },
+  "Date": {
+    "MonthAndDay": {
+      "Separate": {
+        "Month": {
+          "TopLeftX": 83,
+          "TopLeftY": 29,
+          "BottomRightX": 99,
+          "BottomRightY": 41,
+          "Alignment": "TopLeft",
+          "Spacing": 0,
+          "ImageIndex": 11,
+          "ImagesCount": 10
+        },
+        "Day": {
+          "TopLeftX": 59,
+          "TopLeftY": 29,
+          "BottomRightX": 75,
+          "BottomRightY": 41,
+          "Alignment": "TopLeft",
+          "Spacing": 0,
+          "ImageIndex": 11,
+          "ImagesCount": 10
+        }
+      },
+      "TwoDigitsMonth": true,
+      "TwoDigitsDay": true
+    },
+    "WeekDay": {
+      "X": 21,
+      "Y": 29,
+      "ImageIndex": 23,
+      "ImagesCount": 7
+    }
+  }
+}
